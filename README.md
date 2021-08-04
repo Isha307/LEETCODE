@@ -1,4 +1,4 @@
-# CP_Solutions
+# LEETCODE
 
 Adding CP Question's link with it's solution.
 
